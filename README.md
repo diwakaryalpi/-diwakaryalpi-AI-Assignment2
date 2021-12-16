@@ -1,4 +1,4 @@
-# -diwakaryalpi-AI-Assignment2
+# AI-Assignment2
 
 ### References:
 https://github.com/salihmarangoz/ImageGenerationGeneticAlgorithm/tree/master/src/src
